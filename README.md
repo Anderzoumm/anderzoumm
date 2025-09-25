@@ -11,7 +11,7 @@
   <a href="https://anderzoumm.github.io/Portifolio/" target="_blank" rel="noopener">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-Visitar-%237B61FF?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories" target="_blank" rel="noopener">
+  <a href="https://github.com/Anderzoumm?tab=repositories" target="_blank" rel="noopener">
     <img alt="Repositórios" src="https://img.shields.io/badge/Meus_Repositórios-Ver%20no%20GitHub-%237B61FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -52,7 +52,3 @@ Atualmente cursando **Analise e Desenvolvimento de Sistemas** na **UNIFIP**.
 ## ✨ Projetos em destaque
 - **ONG LAR TEMPORARIO** — Um site simples feito para uma ONG de resgate de animais de rua. O site contem formularios para se candidatar a voluntario, animais para adoção ( onde o admin pode modificar) e diversas informações sobre a OND e sua historia.
 ---
-
-## 💬 Contato
-- LinkedIn: [Seu perfil](`https://www.linkedin.com/in/anderzoum/`)  
-- Portfólio: [Visitar Portfólio](`https://anderzoumm.github.io/Portifolio/`)  
