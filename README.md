@@ -49,6 +49,4 @@ Atualmente cursando **Analise e Desenvolvimento de Sistemas** na **UNIFIP**.
 
 ---
 
-## ✨ Projetos em destaque
-- **ONG LAR TEMPORARIO** — Um site simples feito para uma ONG de resgate de animais de rua. O site contem formularios para se candidatar a voluntario, animais para adoção ( onde o admin pode modificar) e diversas informações sobre a OND e sua historia.
----
+
