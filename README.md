@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o <b>Andersoun</b></h1>
+<h1 align="center">👋 Olá! Eu sou o <b>Anderson</b></h1>
 <p align="center">
   <em>Fullstack Developer • Python & JavaScript • HTML & CSS</em>
 </p>
